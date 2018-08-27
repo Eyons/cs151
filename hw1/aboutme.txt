@@ -1,0 +1,12 @@
+Your name: Aaron Kim Warren
+Your student ID: 011341941
+Your major: Software Engineering
+Your preferred email address: aaron.warren@sjsu.edu
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: Spring 2018 SJSU
+Course number and grade received: CS49J, A
+Place and semester where you took a course in data structures: Spring 2017, Reedley City College
+Course number and grade received: CSCI 41, B
+Time it took you to answer the two questions below: N/A did it over course of few hours while doing chores and other activities
+Did you ask anyone for help? [ ] Yes, [x] No
